@@ -1,0 +1,8 @@
+Flask
+flask-restx
+cloudscraper
+beautifulsoup4
+lxml
+fake-useragent
+cachetools
+requests
